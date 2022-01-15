@@ -3,8 +3,8 @@
 -Formado no curso Técnico de Informática para Internet pelo CEFETMG campus V. <br>
 -Cursando engenharia de computação pelo CEFETMG campus V (Sexto Periodo atualmente). <br>
 -Apaixonado por jogos e programação. <br>
--[![EMAIL](vitor231408@gmail.com)] 
--[![LINKEDIN](www.linkedin.com/in/vitormartinssoares)] 
+-[![EMAIL](vitor231408@gmail.com)] [![LINKEDIN](www.linkedin.com/in/vitormartinssoares)] <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorMartinsSoares&show_icons=true&theme=onedark)
 
 
 <!--
