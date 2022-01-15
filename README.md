@@ -1,9 +1,9 @@
 ### Hi there 👋
-Vitor Martins Soares.
-Formado no curso Técnico de Informática para Internet pelo CEFETMG campus V.
-Cursando engenharia de computação pelo CEFETMG campus V (Sexto Periodo atualmente).
-Apaixonado por jogos e programação.
-![EMAIL](vitor231408@gmail.com)
+-Vitor Martins Soares.
+-Formado no curso Técnico de Informática para Internet pelo CEFETMG campus V.
+-Cursando engenharia de computação pelo CEFETMG campus V (Sexto Periodo atualmente).
+-Apaixonado por jogos e programação.
+-![EMAIL](vitor231408@gmail.com)
 
 
 <!--
