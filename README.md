@@ -3,7 +3,8 @@
 -Formado no curso Técnico de Informática para Internet pelo CEFETMG campus V. <br>
 -Cursando engenharia de computação pelo CEFETMG campus V (Sexto Periodo atualmente). <br>
 -Apaixonado por jogos e programação. <br>
--![EMAIL](vitor231408@gmail.com)
+-[![EMAIL](vitor231408@gmail.com)] \t
+-[![LINKEDIN](www.linkedin.com/in/vitormartinssoares] \t
 
 
 <!--
