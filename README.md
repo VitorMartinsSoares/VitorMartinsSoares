@@ -1,10 +1,16 @@
 ### Hi there 👋
+Vitor Martins Soares.
+Formado no curso Técnico de Informática para Internet pelo CEFETMG campus V.
+Cursando engenharia de computação pelo CEFETMG campus V (Sexto Periodo atualmente).
+Apaixonado por jogos e programação.
+![EMAIL](vitor231408@gmail.com)
+
 
 <!--
 **VitorMartinsSoares/VitorMartinsSoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- asdas
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
