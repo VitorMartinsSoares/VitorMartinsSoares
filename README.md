@@ -6,7 +6,7 @@
 -[![EMAIL](vitor231408@gmail.com)] [![LINKEDIN](www.linkedin.com/in/vitormartinssoares)] <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorMartinsSoares&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMartinsSoares&layout=compact)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **VitorMartinsSoares/VitorMartinsSoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
