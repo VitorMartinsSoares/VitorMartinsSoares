@@ -4,7 +4,7 @@
 -Cursando engenharia de computação pelo CEFETMG campus V (Sexto Periodo atualmente). <br>
 -Apaixonado por jogos e programação. <br>
 -[![EMAIL](vitor231408@gmail.com)] 
--[![LINKEDIN](www.linkedin.com/in/vitormartinssoares] 
+-[![LINKEDIN](www.linkedin.com/in/vitormartinssoares)] 
 
 
 <!--
