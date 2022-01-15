@@ -3,9 +3,9 @@
 -Formado no curso Técnico de Informática para Internet pelo CEFETMG campus V. <br>
 -Cursando engenharia de computação pelo CEFETMG campus V (Sexto Periodo atualmente). <br>
 -Apaixonado por jogos e programação. <br>
--[![EMAIL](vitor231408@gmail.com)] [![LINKEDIN](www.linkedin.com/in/vitormartinssoares)] <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorMartinsSoares&show_icons=true&theme=onedark) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMartinsSoares&layout=compact)<br>
+-[![EMAIL](vitor231408@gmail.com)] [![LINKEDIN](www.linkedin.com/in/vitormartinssoares)] <br> <br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorMartinsSoares&show_icons=true&theme=onedark) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMartinsSoares&layout=compact)<br> <br>
 
 <!--
 **VitorMartinsSoares/VitorMartinsSoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
