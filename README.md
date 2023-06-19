@@ -3,6 +3,10 @@
 -Formado no curso Técnico de Informática para Internet pelo CEFETMG campus V. <br>
 -Cursando engenharia de computação pelo CEFETMG campus V (Novo Periodo atualmente). <br>
 -Apaixonado por jogos e programação. <br>
+-Participante da Equipe de Programação Competitiva CEFET++ <br>
+-Atraído pela área de dados <br>
+-Fascinado por inteligência artificiais <br>
+-A procura de um estágio <br>
 -[vitor231408@gmail.com] [www.linkedin.com/in/vitormartinssoares] <br> <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMartinsSoares&layout=compact)<br> <br>
 
